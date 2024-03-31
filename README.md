@@ -1,4 +1,4 @@
-#  Student mobile usage detection and fine management system in restricted areas using deep learning techniques.
+#  Student mobile usage detection and fine notification system in restricted areas using deep learning techniques.
 
 ## Project Overview
 In this project, we have developed an advanced system for enhancing campus discipline
